@@ -1,3 +1,5 @@
 /terraform/vpc/.terraform
 terraform/vpc/terraform.tfstate
 /terraform/.terraform
+*.tfstate
+terraform/.terraform.tfstate.lock.info
